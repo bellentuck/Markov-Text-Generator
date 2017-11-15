@@ -31,7 +31,7 @@ Kahneman takes thinking to be a product of two systems. <i>System 1</i> (S1), wh
 What (the system 1 of) our mind does is to jump to the most plausible or coherent conclusion. It does not consider the likelihood of the conclusion. The mind substitutes likelihood with representative-ness of the event. This is how we make errors in judgment that can have far reaching impact on society at large.
 </blockquote>
 By contrast, <i>System 2</i> (S2) applies logical rules to examine the soundness of drawn conclusions. One of Kahneman's assertions borne out from his studies is that System 1 is hyper-active and System 2 is extraordinarily lazy.
-
+<br />
 I’m now going to make explicit the analogy here between S2 and S1, and the logical criteria of <i>soundness</i> and <i>completeness</i>. (S2 : S1 :: Soundness : Completeness.)
 
 In formal logic, soundness captures the move from theorems to axioms. Axioms--from <i>axíōma</i>, fittingness, from <i>*Ag-ty-o-</i>, "weighty"--are like premises. More precisely, logical axioms are statements that are taken to be true within the system of logic they define (e.g., that "A and B" implies "A" is true within a system of logic accepting of simplification as a rule of inference). Do all theorems reduce to axioms? Potentially, yes: in a logical system, there can be things that are "true." A default Pythonic logical system, e.g., adheres to Boolean logic. Such a system is said to be "sound."
